@@ -24,7 +24,7 @@ Wget and jq aren't installed by default on most editions of Linux/Mac/BSD, but y
 
 ### Usage
 - Download jadwalSholat.sh and install.sh
-- Open directory where you put those file in terminal then type `./install.sh` and type your city name
+- Open directory where you put those file in terminal then type `./install.sh` (make sure you change file permission to executable for install.sh) and type your city name
 
 ![](install.gif)
 
