@@ -30,7 +30,7 @@ Wget and jq aren't installed by default on most editions of Linux/Mac/BSD, but y
 ![](install.gif)
 
 ### Adding to Shell
-| Operating System    | Command                                                                                |
+| Shell    | Command                                                                                |
 |:--------------------|:-----------------------------------|
 | **Bash**  | `echo "sh ~/Apps/jadwalSholat.sh" >> .bashrc` |
 | **Zsh**  | `echo "sh ~/Apps/jadwalSholat.sh" >> .zshrc`   |
