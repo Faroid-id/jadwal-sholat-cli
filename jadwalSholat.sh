@@ -1,6 +1,6 @@
 today=$(date +%d)
 tdmo=$(expr $today - "1")
-nextMonth=$(date +%m)
+nextMonth=$(expr $(date +%m) + 1)
 currentYear=$(date +%Y)
 date=$(date +%Y-%m-%d)
 currentTime=$(date +%H%M)
