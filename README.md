@@ -18,7 +18,7 @@ Wget and jq aren't installed by default on most editions of Linux/Mac/BSD, but y
 | **Debian Based**  | `sudo apt install wget` | `sudo apt install jq` |`sudo apt install curl`
 | **Arch Based**  | `sudo pacman -S wget`   | `sudo pacman -S jq` | `sudo pacman -S curl`
 | **Void Based**  | `sudo xbps-install wget`   | `sudo xbps-install jq` | `sudo xbps-install curl`
-| **Redhat/Fedora Based** | `sudo yum install wget` | `sudo yum install jq` |`sudo yum install culr`
+| **Redhat/Fedora Based** | `sudo dnf install wget` | `sudo dnf install jq` |`sudo dnf install curl`
 | **Mac** | `brew install wget` | `sudo brew install jq` |`sudo brew install curl`
 | **FreeBSD** | `sudo pkg install wget` | `sudo pkg install jq` |`sudo pkg install curl`
 
